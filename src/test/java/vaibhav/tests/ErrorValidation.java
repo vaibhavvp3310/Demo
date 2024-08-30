@@ -10,7 +10,7 @@ import vaibhav.testcomponents.Retry;
 
 public class ErrorValidation extends BaseTest {
 	
-	
+	// This is exclusive for architect guy.
 	
 	@Test(retryAnalyzer = Retry.class)
 	public void loginError() throws InterruptedException {

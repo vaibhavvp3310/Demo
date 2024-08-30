@@ -36,6 +36,9 @@ public class StandaloneTest extends BaseTest {
 
 		// This is gitY update //
 
+		// This is exclusive for architect guy. 
+
+
 		// Login page
 
 		ProductCatalog productcatalog = loginpage.logintoApp(input.get("email"), input.get("password"));

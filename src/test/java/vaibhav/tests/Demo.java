@@ -21,6 +21,10 @@ public class Demo {
 		System.out.println("project is finished");
 	}
 	
+	public void finalfunction4() {
+		System.out.println("project is completely finished");
+	}
+	
 
 	
 

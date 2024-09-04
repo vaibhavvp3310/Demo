@@ -35,8 +35,9 @@ public class StandaloneTest extends BaseTest {
 		// TODO Auto-generated method stub
 
 		// This is gitY update //
-		
+
 		// This is exclusive for architect guy. 
+
 
 		// Login page
 
